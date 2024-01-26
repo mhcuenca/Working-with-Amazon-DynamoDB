@@ -1,6 +1,6 @@
 # Working-with-Amazon-DynamoDB
 
-Usaremos Amazon DynamoDB para almacenar y administrar la informacion del Menu. Usar base de datos, simplifica la administracion de datos porque puedes realizar una consultar, ordenar, editar e indexar datos facilmente.
+Usaremos Amazon DynamoDB para almacenar y administrar la informacion del Menu de una Cafeteria. Usar base de datos, simplifica la administracion de datos porque puedes realizar una consultar, ordenar, editar e indexar datos facilmente.
 Usaremos la Linea de comandos de AWS (AWS CLI) y AWS SDK para Python (Boto3) para trabajar con DynamoDB.
 En un siguiente repositorio, utilizaremos llamadas a la API desde el sitio web de la cafeteria para recuperar y actualizar dinamicamente los datos almacenados en una tabla de DynamoDB.
 
@@ -12,3 +12,9 @@ Al final nuestra arquitectura deberia quedar como la siguiente imagen
 ![Arquitectura Final](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/DYNAMO1.JPG)
 <h1>Escenario</h1>
 La pagina web de la cafeteria funciona y hubo un aumento en el numero de clientes. Varios Clientes mencionaron que seria útil que el sitio web tuviera actualizado el menú. De este modo, podrian utilizar el menú para comprobar la disponibilidad de los alimentos antes de ir a la cafeteria.
+Para cumplir con el requerimiento de actualizar dinamicamente el Menu. Almacenaremos la información en DynamoDB, para recuperar la información de la tabla crearemos un script que recupere todos los artículos del inventario de la tabla y otro script (como prueba de concepto) que utilice un nombre de producto para recuperar un único registro.
+
+Utilizaremos la CLI de AWS y el SDK para Python para configurar y crear una tabla DynamoDB, cargar registros en la tabla y extraer datos de la tabla.
+
+<h1>Preparando el Entorno</h1>
+Importaremos algunos archivos e instalaremos algunos paquetes en el ambiente de AWS Cloud9. Buscamos el servicio Cloud9 y seleccionamos **Cloud9 Instance**
