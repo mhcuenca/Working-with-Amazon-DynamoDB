@@ -18,4 +18,4 @@ Utilizaremos la CLI de AWS y el SDK para Python para configurar y crear una tabl
 
 <h1>Preparando el Entorno</h1>
 Importaremos algunos archivos e instalaremos algunos paquetes en el ambiente de AWS Cloud9. Buscamos el servicio Cloud9 y seleccionamos *Cloud9 Instance* y clic en Open IDE
-!(https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/DYNAMO2.JPG)
+![aLT](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/DYNAMO2.JPG)
