@@ -29,3 +29,7 @@ Descargamos y extraemos los archivos que necesitaremos para nuestro entorno. Eje
 
 Debería ver que el archivo code.zip se ha descargado en la instancia de AWS Cloud9 y que ahora se encuentra en el panel de navegación izquierdo. Extraiga el archivo ejecutando el siguiente comando
 `unzip code.zip`
+Esta acción extrae los archivos de code.zip. En el panel Entorno de la izquierda, ahora debería ver una nueva carpeta llamada recursos y Python_3.
+Ejecutaremos un script que actualice la version de Python instalada en Cloud9, tambien actualizara la versión de AWS CLI. Cambiamos los permisos del script y luego ejecutamos.
+
+`chmod +x ./resources/setup.sh && ./resources/setup.sh`
