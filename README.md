@@ -27,5 +27,5 @@ Descargamos y extraemos los archivos que necesitaremos para nuestro entorno. Eje
 
 ![](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/Dynamo3.JPG)
 
-Debería ver que el archivo code.zip se ha descargado en la instancia de AWS Cloud9 y que ahora se encuentra en el panel de navegación izquierdo. Extraiga el archivo ejecutando el siguiente comando.
+Debería ver que el archivo code.zip se ha descargado en la instancia de AWS Cloud9 y que ahora se encuentra en el panel de navegación izquierdo. Extraiga el archivo ejecutando el siguiente comando
 `unzip code.zip`
