@@ -36,5 +36,7 @@ Ejecutaremos un script que actualice la version de Python instalada en Cloud9, t
 
 En el terminal de AWS Cloud9 Bash, ejecute el siguiente comando `pip show boto3`
 
+![](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/Dynamo4.JPG)
+
 
 
