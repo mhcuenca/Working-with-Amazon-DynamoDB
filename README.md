@@ -26,3 +26,6 @@ Descargamos y extraemos los archivos que necesitaremos para nuestro entorno. Eje
 `wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACCDEV-2-91558/03-lab-dynamo/code.zip -P /home/ec2-user/environment`
 
 ![](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/Dynamo3.JPG)
+
+Debería ver que el archivo code.zip se ha descargado en la instancia de AWS Cloud9 y que ahora se encuentra en el panel de navegación izquierdo. Extraiga el archivo ejecutando el siguiente comando.
+`unzip code.zip`
