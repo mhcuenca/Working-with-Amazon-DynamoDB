@@ -33,3 +33,5 @@ Esta acción extrae los archivos de code.zip. En el panel Entorno de la izquierd
 Ejecutaremos un script que actualice la version de Python instalada en Cloud9, tambien actualizara la versión de AWS CLI. Cambiamos los permisos del script y luego ejecutamos.
 
 `chmod +x ./resources/setup.sh && ./resources/setup.sh`
+En el terminal de AWS Cloud9 Bash, ejecute el siguiente comando `pip show boto3`
+
