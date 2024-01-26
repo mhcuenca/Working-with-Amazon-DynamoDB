@@ -22,7 +22,5 @@ Importaremos algunos archivos e instalaremos algunos paquetes en el ambiente de 
 ![cLOUD9](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/DYNAMO2.JPG)
 
 Descargamos y extraemos los archivos que necesitaremos para nuestro entorno. Ejecutaremos el siguiente comando en la terminal.
-
-'wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACCDEV-2-91558/03-lab-dynamo/code.zip -P /home/ec2-user/environment'
 	
 `wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-200-ACCDEV-2-91558/03-lab-dynamo/code.zip -P /home/ec2-user/environment`
