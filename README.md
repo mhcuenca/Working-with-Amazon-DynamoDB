@@ -38,5 +38,6 @@ En el terminal de AWS Cloud9 Bash, ejecute el siguiente comando `pip show boto3`
 
 ![](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/Dynamo4.JPG)
 
+<h1>Creación de una tabla de DynamoDB mediante el SDK para Python</h1>
 
 
