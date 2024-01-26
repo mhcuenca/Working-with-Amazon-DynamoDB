@@ -8,7 +8,7 @@ Previamente hemos creado algunos recursos en nuestra cuenta de AWS:
 - Instancia de AWS Cloud9(IDE)
 - Instancia de EC2 para crear codigo y ejecutar comandos a traves de la CLI de AWS.
 
-Al final nuestra arquitectura deberia 
+Al final nuestra arquitectura deberia quedar como la siguiente imagen
 ![Arquitectura Final](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/DYNAMO1.JPG)
 <h1>Escenario</h1>
 La pagina web de la cafeteria funciona y hubo un aumento en el numero de clientes. Varios Clientes mencionaron que seria útil que el sitio web tuviera actualizado el menú. De este modo, podrian utilizar el menú para comprobar la disponibilidad de los alimentos antes de ir a la cafeteria.
