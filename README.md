@@ -17,5 +17,6 @@ Para cumplir con el requerimiento de actualizar dinamicamente el Menu. Almacenar
 Utilizaremos la CLI de AWS y el SDK para Python para configurar y crear una tabla DynamoDB, cargar registros en la tabla y extraer datos de la tabla.
 
 <h1>Preparando el Entorno</h1>
-Importaremos algunos archivos e instalaremos algunos paquetes en el ambiente de AWS Cloud9. Buscamos el servicio Cloud9 y seleccionamos *Cloud9 Instance* y clic en Open IDE
-![aLT](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/DYNAMO2.JPG)
+Importaremos algunos archivos e instalaremos algunos paquetes en el ambiente de AWS Cloud9. Buscamos el servicio Cloud9 y seleccionamos *Cloud9 Instance* y clic en Open IDE.
+
+![cLOUD9](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/DYNAMO2.JPG)
