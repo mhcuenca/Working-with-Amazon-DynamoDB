@@ -7,3 +7,4 @@ Previamente hemos creado algunos recursos en nuestra cuenta de AWS:
 - Instancia de AWS Cloud9(IDE)
 - Instancia de EC2 para crear codigo y ejecutar comandos a traves de la CLI de AWS
 Al final nuestra arquitectura deberia 
+![Arquitectura Final](https://github.com/mhcuenca/Working-with-Amazon-DynamoDB/blob/main/DYNAMO1.JPG)
